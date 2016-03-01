@@ -1,0 +1,21 @@
+{
+  "name": "vaadin-elementary-school-012",
+  "description": "",
+  "authors": [
+    "Teemu Pöntelin <teemu@vaadin.com>"
+  ],
+  "license": "Apache 2",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vaadin-icons": "^1.0.0-alpha2"
+  }
+}
